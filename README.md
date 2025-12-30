@@ -29,7 +29,7 @@ A player wins by getting three of their symbols in a line:
 
 ## Live Demo
 
-Play the game here: [Heart and Star Game](https://avijit-roy.github.io/HEART-AND-STAR-GAME/) *(update with your GitHub Pages link)*
+Play the game here: [Heart and Star Game](https://avijit-roy.github.io/HEART-AND-STAR-GAME/) 
 
 ## Tech Stack
 
